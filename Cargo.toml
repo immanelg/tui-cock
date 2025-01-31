@@ -1,6 +1,8 @@
 [package]
-name = "cock"
+name = "tui-cock"
 version = "1.0.0"
+description = "Cock For Your Terminal"
+license = "MIT"
 
 [profile.release]
 codegen-units = 1

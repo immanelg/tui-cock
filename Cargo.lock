@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "cock"
+name = "tui-cock"
 version = "1.0.0"
