@@ -20,6 +20,7 @@ The argument is the size of the cock. It is probably between 10 and 69, should b
 ## Zellij
 The cock looks nice in a zellij layout, e.g.
 
+```
 layout {
     pane command="btm" size="65%"
     pane split_direction="vertical" {
@@ -33,3 +34,4 @@ layout {
         }
     }
 }
+```
